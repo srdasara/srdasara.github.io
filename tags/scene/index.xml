@@ -8,24 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Sep 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://srdasara.github.io/tags/scene/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Lagged Temporal Analysis, Bellingshausen Sea, western Antarctic</title>
-      <link>https://srdasara.github.io/post/project-2/</link>
-      <pubDate>Wed, 15 Sep 2021 10:58:08 -0400</pubDate>
-      
-      <guid>https://srdasara.github.io/post/project-2/</guid>
-      <description>This is part 2 of the blog post series on the manuscript, Multi-year Seasonal Trends in Sea Ice, Chlorophyll Concentration, and Marine Aerosol Optical Depth in the Bellingshausen Sea. As written by my PI &amp;amp; co-author, Dr. Jeff S. Bowman, &amp;ldquo;One challenge that we faced was that CALIPSO represents data with high spatial resolution along a 2D path or &amp;lsquo;curtain.&amp;rsquo; The orbital geometry is such that not every point on the globe gets covered; the same curtains get sampled every 16 days.</description>
-    </item>
-    
-    <item>
-      <title>Project 4.</title>
-      <link>https://srdasara.github.io/post/project-4/</link>
-      <pubDate>Wed, 15 Sep 2021 10:58:08 -0400</pubDate>
-      
-      <guid>https://srdasara.github.io/post/project-4/</guid>
-      <description>Link to GitHub Repository Link to Manuscript</description>
-    </item>
-    
-    <item>
       <title>Project 5.</title>
       <link>https://srdasara.github.io/post/project-5/</link>
       <pubDate>Wed, 15 Sep 2021 10:58:08 -0400</pubDate>
@@ -41,25 +23,6 @@
       
       <guid>https://srdasara.github.io/post/project-6/</guid>
       <description>Link to GitHub Repository Link to Manuscript</description>
-    </item>
-    
-    <item>
-      <title>Seasonal Spatial Correlation between Sea Ice &amp; Chlorophyll Concentration</title>
-      <link>https://srdasara.github.io/post/project-3/</link>
-      <pubDate>Wed, 15 Sep 2021 10:58:08 -0400</pubDate>
-      
-      <guid>https://srdasara.github.io/post/project-3/</guid>
-      <description>This is part 3 of the blog post series on the manuscript, Multi-year Seasonal Trends in Sea Ice, Chlorophyll Concentration, and Marine Aerosol Optical Depth in the Bellingshausen Sea.
-  As a polar environment, the western Antarctic Peninsula region is subject to seasonal dynamics of varying light availability. This has downstream effects on the phytoplankton community, and phytoplankton blooms kick off in the austral spring with the return of light availability for photosynthesis.</description>
-    </item>
-    
-    <item>
-      <title>Time-series of marine aerosol optical depth, chlorophyll concentration, sea ice, and wind speed.</title>
-      <link>https://srdasara.github.io/post/project-1/</link>
-      <pubDate>Wed, 15 Sep 2021 10:58:08 -0400</pubDate>
-      
-      <guid>https://srdasara.github.io/post/project-1/</guid>
-      <description>The project represented herein is the first of an X-part blog series on the manuscript, Multi-year Seasonal Trends in Sea Ice, Chlorophyll Concentration, and Marine Aerosol Optical Depth in the Bellingshausen Sea. This manuscript is my first first-author publication and represents the first chapter of my PhD encompassing numerous years of extensive work! I do not come from a remote sensing background and my lab also is not a remote sensing lab.</description>
     </item>
     
   </channel>

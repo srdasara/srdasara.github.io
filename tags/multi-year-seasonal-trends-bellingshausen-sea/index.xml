@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Srishti Dasarathy on My blog</title>
-    <link>https://srdasara.github.io/</link>
-    <description>Recent content in Srishti Dasarathy on My blog</description>
+    <title>Multi-year Seasonal Trends, Bellingshausen Sea on My blog</title>
+    <link>https://srdasara.github.io/tags/multi-year-seasonal-trends-bellingshausen-sea/</link>
+    <description>Recent content in Multi-year Seasonal Trends, Bellingshausen Sea on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Sep 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://srdasara.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Sep 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://srdasara.github.io/tags/multi-year-seasonal-trends-bellingshausen-sea/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Part 1: Time-series of marine aerosol optical depth (MAOD), chlorophyll concentration, sea ice, and wind speed.</title>
       <link>https://srdasara.github.io/post/project-1/</link>
@@ -43,34 +43,6 @@
       <guid>https://srdasara.github.io/post/project-4/</guid>
       <description>This is part 4, the last of the blog post series on the manuscript, Multi-year Seasonal Trends in Sea Ice, Chlorophyll Concentration, and Marine Aerosol Optical Depth in the Bellingshausen Sea!
   In Part 3, we explored the fact that as a polar environment, the western Antarctic Peninsula and Bellingshausen Sea region is subject to seasonal dynamics of varying light &amp;amp; temperature. We can visualize that sea ice is at its maximum extent in winter, and at its lowest extent in the summertime.</description>
-    </item>
-    
-    <item>
-      <title>Project 5.</title>
-      <link>https://srdasara.github.io/post/project-5/</link>
-      <pubDate>Wed, 15 Sep 2021 10:58:08 -0400</pubDate>
-      
-      <guid>https://srdasara.github.io/post/project-5/</guid>
-      <description>Link to GitHub Repository Link to Manuscript</description>
-    </item>
-    
-    <item>
-      <title>Project 6.</title>
-      <link>https://srdasara.github.io/post/project-6/</link>
-      <pubDate>Wed, 15 Sep 2021 10:58:08 -0400</pubDate>
-      
-      <guid>https://srdasara.github.io/post/project-6/</guid>
-      <description>Link to GitHub Repository Link to Manuscript</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://srdasara.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://srdasara.github.io/contact/</guid>
-      <description>Please reach out to me, I&amp;rsquo;d love to hear from you!
-Your Name Email Address An email address is required.  Message   </description>
     </item>
     
   </channel>

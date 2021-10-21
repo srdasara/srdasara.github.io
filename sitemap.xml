@@ -2,12 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://srdasara.github.io/</loc>
+    <loc>https://srdasara.github.io/tags/multi-year-seasonal-trends-bellingshausen-sea/</loc>
+    <lastmod>2021-09-15T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://srdasara.github.io/post/project-1/</loc>
     <lastmod>2021-09-15T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://srdasara.github.io/post/project-2/</loc>
+    <lastmod>2021-09-15T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://srdasara.github.io/post/project-3/</loc>
     <lastmod>2021-09-15T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -32,7 +42,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://srdasara.github.io/post/project-3/</loc>
+    <loc>https://srdasara.github.io/</loc>
     <lastmod>2021-09-15T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -42,8 +52,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://srdasara.github.io/post/project-1/</loc>
-    <lastmod>2021-09-15T10:58:08-04:00</lastmod>
+    <loc>https://srdasara.github.io/post2/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
