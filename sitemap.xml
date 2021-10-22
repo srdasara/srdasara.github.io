@@ -27,21 +27,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://srdasara.github.io/post/project-5/</loc>
-    <lastmod>2021-09-15T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://srdasara.github.io/post/project-6/</loc>
-    <lastmod>2021-09-15T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://srdasara.github.io/tags/scene/</loc>
-    <lastmod>2021-09-15T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://srdasara.github.io/</loc>
     <lastmod>2021-09-15T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -66,11 +51,23 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://srdasara.github.io/post/project-5/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://srdasara.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://srdasara.github.io/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://srdasara.github.io/tags/grabbing-data/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://srdasara.github.io/post/project-6/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

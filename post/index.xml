@@ -46,21 +46,22 @@
     </item>
     
     <item>
-      <title>Project 5.</title>
+      <title>Acquiring data from NASA Earth-observing satellite data for Southern Ocean-scale analysis</title>
       <link>https://srdasara.github.io/post/project-5/</link>
-      <pubDate>Wed, 15 Sep 2021 10:58:08 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://srdasara.github.io/post/project-5/</guid>
-      <description>Link to GitHub Repository Link to Manuscript</description>
+      <description>One of the most important and time-consuming steps in conducting any data analyses, ESPECIALLY data analyses from satellites, is to get the data, convert it into readable format, and confirm that the arrays are in the correct format, layout, etc. for further imaging and statistical processing. Without a doubt, in all of the analyses I&amp;rsquo;ve conducted, this has been the steepest learning curve. However, the nice thing is that once you learn how to do it, it&amp;rsquo;s infinitely easier to know the how-to on acquiring new variables even if they&amp;rsquo;re housed in different Distributed Active Arcive Centers (DAACs).</description>
     </item>
     
     <item>
-      <title>Project 6.</title>
+      <title>Southern Ocean-scale seasonal analysis</title>
       <link>https://srdasara.github.io/post/project-6/</link>
-      <pubDate>Wed, 15 Sep 2021 10:58:08 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://srdasara.github.io/post/project-6/</guid>
-      <description>Link to GitHub Repository Link to Manuscript</description>
+      <description>Before I qualified and moved forward to PhD Candidacy, I wanted to examine what happens if I do the earlier study across the entire Southern Ocean. Here I&amp;rsquo;ve compiled my code &amp;amp; figures for some preliminary data analysis mimicking methods from the earlier manuscript but zoomed out to the entire Southern Ocean.
+Variables assessed include marine aerosol optical depth (MAOD), depolarization ratio (sea ice), chlorophyll-a concentration, and wind speed. This research is still in the works, but what is interesting is that spatial clustering of MAOD &amp;amp; sea ice, MAOD &amp;amp; wind speed, and sea ice &amp;amp; chlorophyll-a concentration is significant, also seen in and supporting the prior study!</description>
     </item>
     
   </channel>
