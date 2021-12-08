@@ -1,19 +1,86 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>scene on My blog</title>
-    <link>https://srdasara.github.io/tags/scene/</link>
-    <description>Recent content in scene on My blog</description>
+    <title>Srishti Dasarathy on My blog</title>
+    <link>https://srdasara.github.io/</link>
+    <description>Recent content in Srishti Dasarathy on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Sep 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://srdasara.github.io/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Sep 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://srdasara.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 6.</title>
-      <link>https://srdasara.github.io/post/project-6/</link>
+      <title>Part 1: Time-series of marine aerosol optical depth (MAOD), chlorophyll concentration, sea ice, and wind speed.</title>
+      <link>https://srdasara.github.io/post/project-1/</link>
       <pubDate>Wed, 15 Sep 2021 10:58:08 -0400</pubDate>
       
+      <guid>https://srdasara.github.io/post/project-1/</guid>
+      <description>The project represented herein is the first of an 4-part blog series on the manuscript, Multi-year Seasonal Trends in Sea Ice, Chlorophyll Concentration, and Marine Aerosol Optical Depth in the Bellingshausen Sea. This manuscript is my first first-author publication and represents the first chapter of my PhD encompassing numerous years of extensive work! I do not come from a remote sensing background and my lab also is not a remote sensing lab.</description>
+    </item>
+    
+    <item>
+      <title>Part 2: Lagged Temporal Analysis, Bellingshausen Sea, western Antarctic</title>
+      <link>https://srdasara.github.io/post/project-2/</link>
+      <pubDate>Wed, 15 Sep 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://srdasara.github.io/post/project-2/</guid>
+      <description>This is part 2 of the blog post series on the manuscript, Multi-year Seasonal Trends in Sea Ice, Chlorophyll Concentration, and Marine Aerosol Optical Depth in the Bellingshausen Sea. As written by my PI &amp;amp; co-author, Dr. Jeff S. Bowman, &amp;ldquo;One challenge that we faced was that CALIPSO represents data with high spatial resolution along a 2D path or &amp;lsquo;curtain.&amp;rsquo; The orbital geometry is such that not every point on the globe gets covered; the same curtains get sampled every 16 days.</description>
+    </item>
+    
+    <item>
+      <title>Part 3: Seasonal Spatial Correlation between Sea Ice &amp; Chlorophyll Concentration</title>
+      <link>https://srdasara.github.io/post/project-3/</link>
+      <pubDate>Wed, 15 Sep 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://srdasara.github.io/post/project-3/</guid>
+      <description>This is part 3 of the blog post series on the manuscript, Multi-year Seasonal Trends in Sea Ice, Chlorophyll Concentration, and Marine Aerosol Optical Depth in the Bellingshausen Sea.
+  As a polar environment, the western Antarctic Peninsula region is subject to seasonal dynamics of varying light availability. We can visualize this seasonality: as predicted, sea ice is at its maximum extent in winter, and at its lowest in the summertime.</description>
+    </item>
+    
+    <item>
+      <title>Part 4: Seasonal Spatial Correlation between Marine Aerosol Optical Depth (MAOD) &amp; Sea Ice</title>
+      <link>https://srdasara.github.io/post/project-4/</link>
+      <pubDate>Wed, 15 Sep 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://srdasara.github.io/post/project-4/</guid>
+      <description>This is part 4, the last of the blog post series on the manuscript, Multi-year Seasonal Trends in Sea Ice, Chlorophyll Concentration, and Marine Aerosol Optical Depth in the Bellingshausen Sea!
+  In Part 3, we explored the fact that as a polar environment, the western Antarctic Peninsula and Bellingshausen Sea region is subject to seasonal dynamics of varying light &amp;amp; temperature. We can visualize that sea ice is at its maximum extent in winter, and at its lowest extent in the summertime.</description>
+    </item>
+    
+    <item>
+      <title>A quick how-to on grabbing AOD: Analysis of marine tropospheric aerosol using Coarse-mode Aerosol Optical Depth</title>
+      <link>https://srdasara.github.io/post/project-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://srdasara.github.io/post/project-7/</guid>
+      <description>After qualifying for my PhD, I was understandably given advice from my committee members that ended up changing my research direction for my second chapter.
+This recommendation was to backtrack and form a more thorough foundation that my earlier observations of Marine Aerosol Optical Depth (MAOD) were in fact linked to tropospheric marine aerosol. I was given a simple way of going about this study. This was to examine whether magnitudes of MAOD increase on short timescales alongside an increase in wind speed, which would indicate the likely presence of sea spray aerosol contributing to MAOD observations.</description>
+    </item>
+    
+    <item>
+      <title>Acquiring data from NASA Earth-observing satellites for Southern Ocean-scale analysis</title>
+      <link>https://srdasara.github.io/post/project-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://srdasara.github.io/post/project-5/</guid>
+      <description>One of the most important and time-consuming steps in conducting spatiotemporal analyses, ESPECIALLY that which uses satellite data, is to get these data, convert it into readable format, and confirm that the arrays are in the correct format, layout, etc. for further imaging and statistical processing. Without a doubt, in all of the analyses I&amp;rsquo;ve conducted, this has been the steepest learning curve, and even required an internship at NASA Langley to colloborate on how best to define calculation of new variables from raw data.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://srdasara.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://srdasara.github.io/contact/</guid>
+      <description>Fill out the form, and I&amp;rsquo;ll reply back at the earliest! Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+    <item>
+      <title>Southern Ocean-scale seasonal analysis</title>
+      <link>https://srdasara.github.io/post/project-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://srdasara.github.io/post/project-6/</guid>
-      <description>Link to GitHub Repository Link to Manuscript</description>
+      <description>Before I qualified and moved forward to PhD Candidacy, I wanted to examine what happens if I do the earlier study across the entire Southern Ocean. Here I&amp;rsquo;ve compiled my code &amp;amp; figures for some preliminary data analysis mimicking methods from the earlier manuscript but zoomed out to the entire Southern Ocean.
+Variables assessed include marine aerosol optical depth (MAOD), depolarization ratio (sea ice), chlorophyll-a concentration, and wind speed. This research is still in the works, but what is interesting is that spatial clustering of MAOD &amp;amp; sea ice, MAOD &amp;amp; wind speed, and sea ice &amp;amp; chlorophyll-a concentration is significant, also seen in and supporting the prior study!</description>
     </item>
     
   </channel>
